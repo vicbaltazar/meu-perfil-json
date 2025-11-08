@@ -1,0 +1,37 @@
+{
+    "Name": "Vitória",
+    "Age": "18",
+    "Description": "Estudante de Analise e Desenvolvimento de Sistemas, gosto de snoopy, mimikyu e mpb.",
+    "Hobbies": [
+        "Jogar alguns jogos como (Stardew Vallley, Roblox, Minecraft, Red Dead Redemption 2, etc)",
+        "Assistir lives de streamers que eu gosto",
+        "Ouvir música (MPB, Rock nacional e às vezes metal)"
+    ],
+    "Address": {
+        "City": "São Paulo",
+        "State": "SP",
+        "Country": "Brasil"
+    },
+    "Education": {
+        "Current": "Cursando Análise e Desenvolvimento de Sistemas",
+        "Institution": "UNIP Paulista"
+    },
+    "Skills": [
+        "Logica de Programação",
+        "Python básico",
+        "Boa comunicação"
+    ],
+    "Goals": [
+        "Aprender mais sobre desenvolvimento de software",
+        "Melhorar minhas habilidades de programação",
+        "Conseguir um estágio na área de TI"
+    ],
+    "Languages": {
+        "Portuguese": "Nativo",
+        "English": "Básico"
+    },
+    "SocialMedia": {
+        "LinkedIn": "linkedin.com/in/vitória-baltazar-3944a72ab",
+        "GitHub": "https://github.com/vicbaltazar"
+    }
+}
