@@ -1,15 +1,16 @@
-# 🐻 Meu Perfil JSON
+## 🦖 Jurassic Profile JSON 
 
-Bem-vindo(a) ao meu repositório *meu-perfil-json*!  
-Este projeto faz parte do meu aprendizado em *Python*, JSON e desenvolvimento de software.
+Bem-vindo(a) ao repositório meu-perfil-json!
+Este projeto faz parte do meu desenvolvimento em Python, JSON e fundamentos de software, organizado com uma abordagem inspirada no universo jurássico.
 
 ---
 
-## 🎯 Objetivos
+## 🎯 Objetivos do Projeto
 
-- Aprender mais sobre *desenvolvimento em Python*  
-- Melhorar minhas habilidades de *programação e lógica*  
-- Conseguir um *estágio na área de TI*
+Aprimorar conhecimentos em Python
+Desenvolver lógica de programação e boas práticas
+Criar pequenos sistemas funcionais utilizando JSON
+Construir um portfólio consistente rumo ao meu primeiro estágio na área de TI
 
 ---
 
@@ -25,28 +26,28 @@ Este projeto faz parte do meu aprendizado em *Python*, JSON e desenvolvimento de
 
 | Arquivo | Descrição |
 |----------|------------|
-| dados.json | Contém informações pessoais e dados de perfil |
-| calendar_month.py | Exemplo de manipulação de datas e meses 📅 |
+| dados.json | Informações pessoais — o “DNA fóssil” do projeto 📜 |
+| calendar_month.py | Mnipulação de datas, porque até os dinossauros precisavam saber o mês 🌙 |
 | amor_doce.py | Banco de Dados usando personagens de um jogo 🎮 |
 | recomendação.musica.py | Sistema de recomendação de música 🎵 |
-| musicas.selvagens.py | Sistema de recomedação com JSON 📻 |
-| kanban.json | Kanban com temática jurássica 🦕 |
+| musicas.selvagens.py | Sistema de recomedação com JSON 🦖 |
+| kanban.json | Kanban temático jurássico para organização de tarefas 🦕 |
 
 ---
 
-## 🌐 Sobre mim
+## 🌋 Sobre Mim
 
-Sou a *Vitória Baltazar*, estudante apaixonada por tecnologia e desenvolvimento de software.  
-Gosto de aprender coisas novas e transformar ideias em código. 💡
+Eu sou a Vitória Baltazar, uma desenvolvedora iniciante explorando o vasto território da tecnologia.
+Apaixonada por dinossauros, programação, música e por aprender coisas novas.
+Todo dia tentando evoluir — igual um pequeno dino descobrindo um novo mundo. 🦕✨
 
 ---
 
-## 📫 Onde me encontrar
+## 🦴 Onde me encontrar
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/vit%C3%B3ria-baltazar-3944a72ab/)
 - 🐙 [GitHub](https://github.com/vicbaltazar)
 
 ---
 
-⭐ Obrigada por visitar meu projeto!  
-Se quiser, deixe uma estrela ⭐ para apoiar o aprendizado! 🚀
+⭐ Obrigada por explorar meu repositório! Se quiser apoiar minha jornada, deixe uma estrela. Ela é como encontrar um fóssil raro. 🦴🚀
