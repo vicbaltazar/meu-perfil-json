@@ -26,7 +26,7 @@ Construir um portfólio consistente rumo ao meu primeiro estágio na área de TI
 
 | Arquivo | Descrição |
 |----------|------------|
-| dados.json | Informações pessoais — o “DNA fóssil” do projeto 📜 |
+| dados.json | Informações pessoais, o “DNA fóssil” do projeto 📜 |
 | calendar_month.py | Mnipulação de datas, porque até os dinossauros precisavam saber o mês 🌙 |
 | amor_doce.py | Banco de Dados usando personagens de um jogo 🎮 |
 | recomendação.musica.py | Sistema de recomendação de música 🎵 |
