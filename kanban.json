@@ -1,0 +1,51 @@
+{
+    "dino_kanban": {
+        "nesting_eggs_backlog": [
+            {
+                "id": 1,
+                "task": "Iniciar estudos de Python e Json",
+                "category": "Estudos 🦴"
+
+            }
+        ],
+        "hunting_todo": [
+            {
+                "id": 2,
+                "task": "Assistir videos sobre lógica de programação",
+                "category": "Estudos 🦕"
+
+            }
+        ],
+        "roaring_doing": [
+            {
+                "id": 3,
+                "task": "Praticar lógica de programação com exercícios",
+                "category": "Estudos 🐾"
+
+            }
+        ],
+        "alpha_review": [
+            {
+                "id": 4,
+                "task": "Revisar códigos já aprendidos e README do GitHub",
+                "category": "Estudos e GitHub 📜"
+
+            }
+        ],
+        "track_testing": [
+            {
+                "id": 5,
+                "task": "Testar pequenos scripts em Python",
+                "category": "Estudos 🔍"
+
+            }
+        ],
+        "extinct_done": [
+            {
+                "id": 6,
+                "task": "Criar perfil no GitHub e LinkedIn",
+                "category": "Networking 🦖✨"
+            }
+        ]
+    }
+}
